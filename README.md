@@ -1,5 +1,7 @@
 ### Hi, my name is Ruslan! I'm learning Java on [Job4j](https://job4j.ru/) :coffee:
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=rkouzmine&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkouzmine&layout=compact)](https://github.com/rkouzmine/github-readme-stats)
+
 <!--
 **rkouzmine/rkouzmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=rkouzmine&hide=stars,prs,issues,contribs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkouzmine&layout=compact)](https://github.com/rkouzmine/github-readme-stats)
